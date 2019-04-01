@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="c_text">C</string>
+    <string name="d_text">D</string>
+    <string name="e_text">E</string>
+    <string name="f_text">F</string>
+    <string name="g_text">G</string>
+    <string name="a_text">A</string>
+    <string name="b_text">B</string>
+</resources>
